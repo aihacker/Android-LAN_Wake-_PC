@@ -1,4 +1,0 @@
-#Fri Mar 01 11:41:21 CST 2019
-base.0=E\:\\QDLAndroid\\My_Net_Wake\\wakeOnLanmaster\\build\\intermediates\\transforms\\dexMerger\\debug\\3
-path.0=classes.dex
-renamed.0=classes.dex
