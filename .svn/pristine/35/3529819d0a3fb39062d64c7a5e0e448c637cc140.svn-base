@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">网络唤醒</string>
+    <string name="send_failed">发送失败</string>
+    <string name="packet_sent">魔术包已发送</string>
+</resources>

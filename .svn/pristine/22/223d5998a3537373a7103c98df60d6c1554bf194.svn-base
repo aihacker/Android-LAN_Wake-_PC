@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/My_Net_Wake.iml" filepath="$PROJECT_DIR$/My_Net_Wake.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wakeOnLanmaster/wakeOnLanmaster.iml" filepath="$PROJECT_DIR$/wakeOnLanmaster/wakeOnLanmaster.iml" />
+    </modules>
+  </component>
+</project>

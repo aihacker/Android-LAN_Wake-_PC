@@ -1,0 +1,23 @@
+package com.zc.wake;
+
+import android.app.Activity;
+import android.os.Bundle;
+import android.view.View;
+import android.widget.Toast;
+
+import com.zc.wake.net.NEtINTENT;
+
+public class NetWakeActivity extends Activity {
+    @Override
+    protected void onCreate(Bundle savedInstanceState) {
+        super.onCreate(savedInstanceState);
+        setContentView(R.layout.activity_net_wake);
+
+    }
+
+
+    public void click(View view) {
+        NEtINTENT.wakeUpDevice("255.255.255.255","D4:3D:73:18:50:AF","255.255.255.255");
+        Toast.makeText(this,"执行了唤醒",Toast.LENGTH_SHORT).show();
+    }
+}
