@@ -38,6 +38,8 @@ public class BaseMacPopup extends BasePopupWindow {
                     return;
                 }
                 SPUtils.getInstance().put(MY_MAC, mac.getText().toString());
+                ToastUtils.showLong("提交成功");
+
             }
         });
     }
